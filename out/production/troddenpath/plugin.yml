@@ -3,4 +3,4 @@ version: 1.0.0
 description: Automatically generates trails over time
 author: BigStickPolicies
 main: com.bigstickpolicies.troddenpath.TroddenPath
-api-version: 1.17
+api-version: 1.19
